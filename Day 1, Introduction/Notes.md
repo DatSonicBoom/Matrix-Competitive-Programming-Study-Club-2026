@@ -47,3 +47,5 @@ Finally, install Visual Studio Code.
 # Resources
 
 Prog4Fun: https://prog4fun.csse.canterbury.ac.nz/course/view.php?id=2
+- ICPC Preliminary Level B 2026 https://prog4fun.csse.canterbury.ac.nz/mod/quiz/view.php?id=6602 (All)
+- ICPC Preliminary Level A 2026 https://prog4fun.csse.canterbury.ac.nz/mod/quiz/view.php?id=6601 (G, K, L)
