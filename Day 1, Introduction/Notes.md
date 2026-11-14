@@ -56,3 +56,7 @@ Demonstration problems:
 - https://prog4fun.csse.canterbury.ac.nz/mod/quiz/view.php?id=6602 (B)
 - https://prog4fun.csse.canterbury.ac.nz/mod/quiz/view.php?id=6601 (L)
 - https://codeforces.com/problemset/problem/2180/A
+
+# Books
+
+- Guide to Competitive Programming (2024) https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/a5tn1g/cdi_springer_books_10_1007_978_3_031_61794_2
