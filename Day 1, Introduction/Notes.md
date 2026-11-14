@@ -60,3 +60,7 @@ Demonstration problems:
 # Books
 
 - Guide to Competitive Programming (2024) https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/a5tn1g/cdi_springer_books_10_1007_978_3_031_61794_2
+
+# C++
+
+- Complete Guide to C++ Programming Foundations https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/
