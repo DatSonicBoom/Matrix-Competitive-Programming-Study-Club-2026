@@ -51,3 +51,8 @@ Prog4Fun: https://prog4fun.csse.canterbury.ac.nz/course/view.php?id=2
 - ICPC Preliminary Level A 2026 https://prog4fun.csse.canterbury.ac.nz/mod/quiz/view.php?id=6601 (G, K, L)
 
 Problems written by me: https://eicspace.tunglamnguyenkhac.com/problems/?category=6
+
+Demonstration problems:
+- https://prog4fun.csse.canterbury.ac.nz/mod/quiz/view.php?id=6602 (B)
+- https://prog4fun.csse.canterbury.ac.nz/mod/quiz/view.php?id=6601 (L)
+- https://codeforces.com/problemset/problem/2180/A
