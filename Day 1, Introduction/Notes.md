@@ -43,3 +43,7 @@ xcode-select --install
 ```
 
 Finally, install Visual Studio Code.
+
+# Resources
+
+Prog4Fun: https://prog4fun.csse.canterbury.ac.nz/course/view.php?id=2
