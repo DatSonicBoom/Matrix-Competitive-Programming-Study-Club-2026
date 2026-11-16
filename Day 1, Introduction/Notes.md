@@ -30,9 +30,11 @@ From inside the terminal, install the `g++` compiler:
 sudo apt-get install g++
 ```
 
-Lastly, install Visual Studio Code. You can now use the `code` command from inside the *Ubuntu Linux* instance to launch Visual Studio Code in Windows with a connection to the virtual machine.
+Then, install Visual Studio Code. You can now use the `code` command from inside the *Ubuntu Linux* instance to launch Visual Studio Code in Windows with a connection to the virtual machine.
 
 For instance, `code .` launches Visual Studio Code on the current directory.
+
+Lastly, you may need to add the "WSL" extension from the Visual Studio Code extension marketplace.
 
 ## MacOS
 
@@ -54,6 +56,7 @@ Problems written by me: https://eicspace.tunglamnguyenkhac.com/problems/?categor
 
 Demonstration problems:
 - https://prog4fun.csse.canterbury.ac.nz/mod/quiz/view.php?id=6602 (B)
+- https://prog4fun.csse.canterbury.ac.nz/mod/quiz/view.php?id=6602 (C)
 - https://prog4fun.csse.canterbury.ac.nz/mod/quiz/view.php?id=6601 (L)
 - https://codeforces.com/problemset/problem/2180/A
 
